@@ -1,0 +1,96 @@
+1	Ms.	_	NN	NNP	_	2	NMOD	_	_
+2	Haag	_	NN	NNP	_	3	SBJ	_	_
+3	plays	_	VB	VBZ	_	0	ROOT	_	_
+4	Elianti	_	NN	NNP	_	3	OBJ	_	_
+5	.	_	.	.	_	3	P	_	_
+
+1	The	_	DT	DT	_	3	NMOD	_	_
+2	new	_	JJ	JJ	_	3	NMOD	_	_
+3	rate	_	NN	NN	_	4	SBJ	_	_
+4	will	_	MD	MD	_	0	ROOT	_	_
+5	be	_	VB	VB	_	4	VC	_	_
+6	payable	_	JJ	JJ	_	5	VMOD	_	_
+7	Feb.	_	NN	NNP	_	6	AMOD	_	_
+8	15	_	CD	CD	_	7	NMOD	_	_
+9	.	_	.	.	_	4	P	_	_
+
+1	A	_	DT	DT	_	3	NMOD	_	_
+2	record	_	NN	NN	_	3	NMOD	_	_
+3	date	_	NN	NN	_	4	SBJ	_	_
+4	has	_	VB	VBZ	_	0	ROOT	_	_
+5	n't	_	RB	RB	_	4	VMOD	_	_
+6	been	_	VB	VBN	_	4	VC	_	_
+7	set	_	VB	VBN	_	6	VC	_	_
+8	.	_	.	.	_	4	P	_	_
+
+1	``	_	``	``	_	5	P	_	_
+2	Apparently	_	RB	RB	_	5	ADV	_	_
+3	the	_	DT	DT	_	4	NMOD	_	_
+4	commission	_	NN	NN	_	5	SBJ	_	_
+5	did	_	VB	VBD	_	0	ROOT	_	_
+6	not	_	RB	RB	_	5	VMOD	_	_
+7	really	_	RB	RB	_	5	ADV	_	_
+8	believe	_	VB	VB	_	5	VC	_	_
+9	in	_	IN	IN	_	8	ADV	_	_
+10	this	_	DT	DT	_	11	NMOD	_	_
+11	ideal	_	NN	NN	_	9	PMOD	_	_
+12	.	_	.	.	_	5	P	_	_
+13	''	_	''	''	_	5	P	_	_
+
+1	Not	_	RB	RB	_	6	SBJ	_	_
+2	all	_	PD	PDT	_	1	NMOD	_	_
+3	those	_	DT	DT	_	1	NMOD	_	_
+4	who	_	WP	WP	_	5	SBJ	_	_
+5	wrote	_	VB	VBD	_	1	NMOD	_	_
+6	oppose	_	VB	VBP	_	0	ROOT	_	_
+7	the	_	DT	DT	_	8	NMOD	_	_
+8	changes	_	NN	NNS	_	6	OBJ	_	_
+9	.	_	.	.	_	6	P	_	_
+
+1	The	_	DT	DT	_	2	NMOD	_	_
+2	SEC	_	NN	NNP	_	5	NMOD	_	_
+3	's	_	PO	POS	_	2	NMOD	_	_
+4	Mr.	_	NN	NNP	_	5	NMOD	_	_
+5	Lane	_	NN	NNP	_	7	SBJ	_	_
+6	vehemently	_	RB	RB	_	7	ADV	_	_
+7	disputed	_	VB	VBD	_	0	ROOT	_	_
+8	those	_	DT	DT	_	9	NMOD	_	_
+9	estimates	_	NN	NNS	_	7	OBJ	_	_
+10	.	_	.	.	_	7	P	_	_
+
+1	Some	_	DT	DT	_	3	NMOD	_	_
+2	4,300	_	CD	CD	_	1	AMOD	_	_
+3	institutions	_	NN	NNS	_	4	SBJ	_	_
+4	are	_	VB	VBP	_	0	ROOT	_	_
+5	part	_	NN	NN	_	4	VMOD	_	_
+6	of	_	IN	IN	_	5	NMOD	_	_
+7	the	_	DT	DT	_	9	NMOD	_	_
+8	pension	_	NN	NN	_	9	NMOD	_	_
+9	fund	_	NN	NN	_	6	PMOD	_	_
+10	.	_	.	.	_	4	P	_	_
+
+1	Richard	_	NN	NNP	_	2	NMOD	_	_
+2	Stoltzman	_	NN	NNP	_	3	SBJ	_	_
+3	has	_	VB	VBZ	_	0	ROOT	_	_
+4	taken	_	VB	VBN	_	3	VC	_	_
+5	a	_	DT	DT	_	10	NMOD	_	_
+6	gentler	_	JJ	JJR	_	10	NMOD	_	_
+7	,	_	,	,	_	10	P	_	_
+8	more	_	RB	RBR	_	9	AMOD	_	_
+9	audience-friendly	_	JJ	JJ	_	10	NMOD	_	_
+10	approach	_	NN	NN	_	4	OBJ	_	_
+11	.	_	.	.	_	3	P	_	_
+
+1	He	_	PR	PRP	_	2	SBJ	_	_
+2	believes	_	VB	VBZ	_	8	COORD	_	_
+3	in	_	IN	IN	_	2	ADV	_	_
+4	what	_	WP	WP	_	6	OBJ	_	_
+5	he	_	PR	PRP	_	6	SBJ	_	_
+6	plays	_	VB	VBZ	_	3	PMOD	_	_
+7	,	_	,	,	_	8	P	_	_
+8	and	_	CC	CC	_	0	ROOT	_	_
+9	he	_	PR	PRP	_	10	SBJ	_	_
+10	plays	_	VB	VBZ	_	8	COORD	_	_
+11	superbly	_	RB	RB	_	10	ADV	_	_
+12	.	_	.	.	_	8	P	_	_
+
